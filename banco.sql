@@ -21,6 +21,6 @@ INSERT INTO veiculos (marca, modelo, ano, cor, preco, quilometragem, status) VAL
 ('Honda', 'Civic', 2023, 'Preto', 140000.0, 15000.0, 'DISPONIVEL'),
 ('Fiat', 'Pulse', 2024, 'Branco', 110000.0, 0.0, 'EM_PREPARACAO'),
 ('Volkswagen', 'Nivus', 2022, 'Cinza', 125000.0, 32000.0, 'DISPONIVEL'),
-('Honda', 'Civic', 2023, 'Preto', 140000.0, 15000.0, 'DISPONIVEL'),
-('Fiat', 'Pulse', 2024, 'Branco', 110000.0, 0.0, 'EM_PREPARACAO'),
-('Volkswagen', 'Nivus', 2022, 'Cinza', 125000.0, 32000.0, 'DISPONIVEL');
+('Jeep', 'Compass', 2021, 'Azul', 135000.0, 45000.0, 'VENDIDO'),
+('Chevrolet', 'Onix', 2024, 'Vermelho', 85000.0, 0.0, 'DISPONIVEL'),
+('Ford', 'Ranger', 2020, 'Branco', 180000.0, 68000.0, 'DISPONIVEL');
